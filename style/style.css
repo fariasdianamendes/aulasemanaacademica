@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Arial";
+}
+
+#corpo {
+    width: 800px;
+    margin: 0 auto;
+}
+#dobra01 {
+    background: linear-gradient(#008B8B, #000);
+    padding: 30px;
+    color: #fff;
+}
+#esquerda{
+    width: 350px;
+    float: left;
+}
+#direita {
+    width: 300px;
+    float: right;
+}
+.limpa-flutucao {
+    clear: both;
+}
+.botao {
+    padding: 15px;
+    display: block;
+    background: #32CD32;
+    border-radius: 10px;
+    margin: 10px;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
